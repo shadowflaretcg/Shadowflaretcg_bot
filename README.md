@@ -1,1 +1,1 @@
-# Shadowflaretcg_bot
+# shadow-flare-telegram-bot
